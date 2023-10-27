@@ -1,0 +1,17 @@
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\bin\Debug\net7.0-windows\DimVerificConcretoArm.exe
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\bin\Debug\net7.0-windows\DimVerificConcretoArm.deps.json
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\bin\Debug\net7.0-windows\DimVerificConcretoArm.runtimeconfig.json
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\bin\Debug\net7.0-windows\DimVerificConcretoArm.dll
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\bin\Debug\net7.0-windows\DimVerificConcretoArm.pdb
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.csproj.AssemblyReference.cache
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.Form1.resources
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.csproj.GenerateResource.cache
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.AssemblyInfoInputs.cache
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.AssemblyInfo.cs
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.csproj.CoreCompileInputs.cache
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.dll
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\refint\DimVerificConcretoArm.dll
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.pdb
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\DimVerificConcretoArm.genruntimeconfig.cache
+C:\Users\uliss\source\repos\DimVerificConcretoArm\DimVerificConcretoArm\obj\Debug\net7.0-windows\ref\DimVerificConcretoArm.dll
